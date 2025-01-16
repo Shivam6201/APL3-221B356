@@ -1,2 +1,2 @@
 # APL3-221B356
-tHIS IS MY FIRST LAB
+This is my first lab
